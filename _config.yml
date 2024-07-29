@@ -62,7 +62,7 @@ links:
   - Name: YouTube
     URL: https://www.youtube.com/channel
     Username: UCeP1XE-LtpaKsh5vUWrsfsw
-   Color: '#ff0000'
+    Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB

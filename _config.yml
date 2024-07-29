@@ -2,10 +2,10 @@
 name: Rolls Royce
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Ya sigma
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/RollsR0yce.png
+Image_URL: https://github.com/auuruum.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -18,7 +18,7 @@ links:
     # FACEBOOK
   #- Name: Facebook
   #  URL: https://www.facebook.com
-  #  Username: harsh98trivedi
+  #  Username: aurimas.dovgialo
   #  Color: '#3b5998'
   #  Icon-Class: fab fa-facebook
 
@@ -31,14 +31,14 @@ links:
 
     # TWITTER
   #- Name: Twitter
-  #  URL: https://x.com
+  #  URL: https://twitter.com
   #  Username: harsh98trivedi
   #  Color: '#1DA1F2'
   #  Icon-Class: fab fa-twitter
 
      # THREADS.NET
   #- Name: Threads
-  #  URL: https://threads.net
+  #  URL: https://threads.net/
   #  Username: harsh98trivedi
   #  Color: '#000000'
   #  Icon-Class: fa-brands fa-threads
@@ -98,7 +98,7 @@ links:
     # TWITCH
   #- Name: Twitch
   #  URL: 'https://twitch.tv'
-  #  Username: harsh98trivedi
+  #  Username: auurummm
   #  Icon-Class: fab fa-twitch
   #  Color: '#9147fe'
   #  Text_Color: '#ffffff'
@@ -129,7 +129,7 @@ links:
     # REDDIT
   #- Name: Reddit
   #  URL: http://reddit.com/u
-  #  Username: harshtrivedi
+  #  Username: auuruum
   #  Color: '#FF4500'
   #  Icon-Class: fab fa-reddit-alien
 
@@ -143,7 +143,7 @@ links:
     # TELEGRAM
   #- Name: Telegram
   #  URL: http://telegram.me
-  #  Username: theharshtrivedi
+  #  Username: auurruum
   #  Color: '#0088cc'
   #  Icon-Class: fab fa-telegram-plane
 
@@ -164,12 +164,12 @@ links:
     Icon-Class: fab fa-steam
 
   #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
+  #- Name: Discord
+  #  URL: 'https://discord.gg'
+  #  Username: auuruum
+  #  Icon-Class: fab fa-discord
+  #  Color: '#5865F2'
+  #  Text_Color: '#ffffff'
 
     # PINTEREST
   #- Name: Pinterest
@@ -211,7 +211,7 @@ links:
     # SPOTIFY
   #- Name: Spotify
   #  URL: http://open.spotify.com/user
-  #  Username: 314ihryk3edvtusti6il3oy3x5da
+  #  Username: 31el7y7mngdmpy6g3ihnwowojoke
   #  Color: '#1DB954'
   #  Icon-Class: fab fa-spotify
 
@@ -229,11 +229,11 @@ links:
   #  Text_Color: '#ffffff'
 
   #    # TIKTOK
-   - Name: TikTok
-     URL: https://www.tiktok.com
-     Username: ntin7979
-     Color: '#FE2C55'
-     Icon-Class: fab fa-tiktok
+  - Name: TikTok
+    URL: https://www.tiktok.com
+    Username: '@ntin7979'
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
 
     # MEDIUM
   #- Name: Medium
@@ -267,17 +267,42 @@ links:
   #  Text_Color: '#000000'
 
     # CUSTOM LINK
-  #- Name: Blog
-  #  URL: https://harsh98trivedi.github.io/blog
+  #- Name: CS2 server
+  #  URL: http://78.31.184.77/
   #  Icon-Class: fas fa-link
   #  Color: '#ffb142'
   #  Text_Color: '#ffffff'
 
-  #- Name: Links
-  #  URL: https://github.com/harsh98trivedi/links
+  #- Name: Ko-fi
+  #  URL: https://ko-fi.com/auuruum
+  #  Icon-Class: fas fa-link
+  #  Color: '#ffb142'
+  #  Text_Color: '#ffffff'
+
+  #- Name: Funpay
+  #  URL: https://funpay.com/users/4129955/
   #  Icon-Class: fas fa-link
   #  Color: '#d94869'
   #  Text_Color: '#ffffff'
+
+  #- Name: Modrinth
+  #  URL: https://modrinth.com/user/aurum
+  #  Icon-Class: fas fa-link
+  #  Color: '#d94869'
+  #  Text_Color: '#ffffff'
+
+  #- Name: Trade-link
+  #  URL: https://steamcommunity.com/tradeoffer/new/?partner=1022404092&token=AmEP_8dw
+  #  Icon-Class: fas fa-link
+  #  Color: '#d94869'
+  #  Text_Color: '#ffffff'
+
+  #- Name: CurseForge
+  #  URL: https://www.curseforge.com/members/auuruum/projects
+  #  Icon-Class: fas fa-link
+  #  Color: '#d94869'
+  #  Text_Color: '#ffffff'
+    
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
